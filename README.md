@@ -1,1 +1,1 @@
-TexturedCube. Wings 3D Tutorials. 3D Graphics. 3D Models.
+Snowman. Wings 3D Tutorials. 3D Graphics. 3D Models.
